@@ -1,0 +1,39 @@
+
+p {
+    color: red;
+    font-family: 'Noto Serif KR', serif;
+    margin: 0 auto;
+}
+
+a, 
+li {
+    color: #000000;
+    font-family: 'Jua', serif;
+}
+
+html {
+    background-color: blueviolet;
+    font-size: 20px;
+}
+
+body {
+    width: 65vw;
+    background-color: #ff9500;
+    padding: 0 20px 20px 20px 20px;
+    border: 20px solid black;
+    margin: 0 auto;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px black;
+    color:aqua;
+    text-align: center;
+
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+}
